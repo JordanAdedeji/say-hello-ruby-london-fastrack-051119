@@ -3,3 +3,5 @@
 def say_hello(x)
   "Hello #{x}"
 end
+
+say_hello("Kent Beck")
